@@ -3,6 +3,8 @@
 
 ![App Screenshot](https://github.com/HiraniAnand/Madhav_Store_Dashboard/blob/5505eed6f1537a86decb837df23ac285091a3fec/Dashboard.jpg)
 
+---
+
 ## Problem Statement
 
 This Power BI dashboard helps **Madhav E-Commerce Store** analyze and visualize its sales performance data. It enables the business to:
@@ -14,6 +16,8 @@ This Power BI dashboard helps **Madhav E-Commerce Store** analyze and visualize 
 - Optimize marketing and sales strategies based on data-driven insights.
 
 By using this dashboard, Madhav Store can make informed decisions to improve profitability, enhance customer experience, and expand sales.
+
+---
 
 ## Steps Followed
 - **Step 1**: Loaded sales dataset into **Power BI Desktop** (source: CSV / Excel).
@@ -40,6 +44,8 @@ By using this dashboard, Madhav Store can make informed decisions to improve pro
     - Quarter Selection
     - State Selection
 - **Step 8**: Published the report to **Power BI Service** for sharing and collaboration.
+
+---
 
 ## Insights
 
@@ -91,6 +97,8 @@ By using this dashboard, Madhav Store can make informed decisions to improve pro
     - **Credit Card** → 12%.
     - **EMI** → 10%.
 
+---
+
 ## Business Recommendations
 - Optimize COD and UPI flows, as they are the most used payment modes.
 - Focus marketing campaigns on Clothing and Electronics, which drive the most sales.
@@ -98,11 +106,15 @@ By using this dashboard, Madhav Store can make informed decisions to improve pro
 - Target underperforming months (June - September) with promotional campaigns.
 - Monitor state-wise trends to identify growth opportunities in less active states.
 
+---
+
 ## Future Improvements
 - Add customer demographic analysis (Age, Gender, Location).
 - Integrate time series forecasting for sales.
 - Implement RFM segmentation for customer retention.
 - Add a Profitability Heatmap by product and region.
+
+---
 
 ## Conclusion
 A single-page interactive Power BI dashboard was created to help **Madhav E-Commerce** gain visibility into its sales data. This dashboard serves as a foundation for making **data-driven business decisions**.
