@@ -1,7 +1,7 @@
 
 # Madhav E-Commerce Sales Dashboard
 
-![App Screenshot]()
+![App Screenshot](https://github.com/HiraniAnand/Madhav_Store_Dashboard/blob/4ee7b90a9dc23bb704626ddc49810199b823969c/Madhav_Sales_Dashboard.pdf)
 
 ## Problem Statement
 
